@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   637    0     0  100   637      0   3122 --:--:-- --:--:-- --:--:--  3107100   998  100   361  100   637   1648   2908 --:--:-- --:--:-- --:--:--  4536
+{"id":"msgbatch_01DF51y11AE93SXFS3EHecDp","type":"message_batch","processing_status":"in_progress","request_counts":{"processing":2,"succeeded":0,"errored":0,"canceled":0,"expired":0},"ended_at":null,"created_at":"2025-06-01T02:31:19.628676+00:00","expires_at":"2025-06-02T02:31:19.628676+00:00","archived_at":null,"cancel_initiated_at":null,"results_url":null}
